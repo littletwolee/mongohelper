@@ -112,7 +112,7 @@ namespace WebApplication1
 
             //4.Pull操作中后面的对象为要插入到List中的对象
 
-            //5.Web.config中mongodbConnection为MongoServer地址，我现在里面写的是DEV的地址，可以使用；mongodbDatabase 为数据库名称，可以改成想要的
+            //5.Web.config中mongodbConnection为MongoServer地址，可以使用；mongodbDatabase 为数据库名称，可以改成想要的
         }
     }
 }
